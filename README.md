@@ -1,7 +1,7 @@
 Hola! Te gusta Badbunny? A mi sí... ;)
 ====================================================================================================================================
 
-Software Engineer
+Learning to be an Informatic Engineer
 -----------------
 - 👋 Hi, I’m GR!
 - 👀 I’m interested in your computer...
