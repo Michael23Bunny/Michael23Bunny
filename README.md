@@ -5,13 +5,14 @@ Learning to be an Informatic Engineer
 -----------------
 - 👋 Hi, I’m GR!
 - 👀 I’m interested in your computer...
-- 🌱 I’m currently learning Informatic Things...
+- 🌱 I’m currently learning Informatic Things...more properly OutSystems
 - 📫 How to reach me ... you can't ;) XD!!!
 
 ### Algumas Skills
 
 <p align="left">
   
+<a href="https://www.outsystems.com/" target="_blank" rel="noreferrer"><img src="https://seekvectorlogo.com/wp-content/uploads/2019/11/outsystems-vector-logo.png" width="36" height="36" alt="OutSystems" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
